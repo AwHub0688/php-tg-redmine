@@ -4,9 +4,7 @@
 ## 搭建说明
 
 项目完整可运行，搭建需要有php代码基础以及telegram机器人相关知识。
-开源地址:https://github.com/lintan/php-tg-redmine
-
-
+源码来自:https://github.com/lintan/php-tg-redmine
 
 #### 配置安装
 
@@ -40,14 +38,11 @@
 
 账号：test 
 
-密码：（联系->[@cody](https://t.me/cody0512)）
+密码：
 
 （测试账号请勿随意修改数据）
 
 >高级版演示群组：[@hongbaolei123](https://t.me/hongbaolei123)
-
-
-
 
 ## 机器人玩法说明：
 
@@ -76,10 +71,7 @@
 
 3. 输入用户名后， 机器人就申请成功了。 如果你只是要一个可以用的机器人， 到这步就够了。 其中的 bot token: 1287833603:AAGmx9hQq6ViT3km0_77z8psBGqUKfdpSHY 是最重要的部分， 不要让人看到， 否则别人可以控制你的机器人。
 
+> 需要代搭建联系 [@AW](https://t.me/TGAW7368) 
 
->本项目免费开源，搭建需自己研究学习! 作者=> [@cody](https://t.me/cody0512) (不常登，请耐心等候)
->
->开源地址:https://github.com/lintan/php-tg-redmine
->
->！！！另外还有红包接龙机，红包牛牛，TG卖号店铺，TRX能量-兑换-TG会员三合一，高级记账，话费电费查询等机器人，接tg机器人定制开发，欢迎咨询
+> ！！！另外还有红包接龙机，红包牛牛，TG卖号店铺，TRX能量-兑换-TG会员三合一，高级记账，话费电费查询等机器人，接tg机器人定制开发，欢迎咨询
 
